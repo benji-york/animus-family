@@ -107,7 +107,7 @@ void modMethod(KeyDown)(char val, byte type)
       }
       else if (val == 5)
       {
-        Mouse.press(Mouse_NEXT);
+        Mouse.press(MOUSE_NEXT);
       }
 
     }
